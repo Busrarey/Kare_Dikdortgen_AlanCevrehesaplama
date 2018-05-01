@@ -1,0 +1,1 @@
+# Kare_Dikdortgen_Alanhesaplama
