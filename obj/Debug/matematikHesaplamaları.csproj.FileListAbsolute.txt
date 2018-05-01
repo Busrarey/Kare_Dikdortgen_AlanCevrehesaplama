@@ -1,0 +1,9 @@
+c:\users\v\documents\visual studio 2015\Projects\matematikHesaplamaları\matematikHesaplamaları\bin\Debug\matematikHesaplamaları.exe.config
+c:\users\v\documents\visual studio 2015\Projects\matematikHesaplamaları\matematikHesaplamaları\bin\Debug\matematikHesaplamaları.exe
+c:\users\v\documents\visual studio 2015\Projects\matematikHesaplamaları\matematikHesaplamaları\bin\Debug\matematikHesaplamaları.pdb
+c:\users\v\documents\visual studio 2015\Projects\matematikHesaplamaları\matematikHesaplamaları\obj\Debug\matematikHesaplamaları.csprojResolveAssemblyReference.cache
+c:\users\v\documents\visual studio 2015\Projects\matematikHesaplamaları\matematikHesaplamaları\obj\Debug\matematikHesaplamaları.Form1.resources
+c:\users\v\documents\visual studio 2015\Projects\matematikHesaplamaları\matematikHesaplamaları\obj\Debug\matematikHesaplamaları.Properties.Resources.resources
+c:\users\v\documents\visual studio 2015\Projects\matematikHesaplamaları\matematikHesaplamaları\obj\Debug\matematikHesaplamaları.csproj.GenerateResource.Cache
+c:\users\v\documents\visual studio 2015\Projects\matematikHesaplamaları\matematikHesaplamaları\obj\Debug\matematikHesaplamaları.exe
+c:\users\v\documents\visual studio 2015\Projects\matematikHesaplamaları\matematikHesaplamaları\obj\Debug\matematikHesaplamaları.pdb
